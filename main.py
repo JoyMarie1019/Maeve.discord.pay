@@ -605,6 +605,6 @@ async def ruleembed(ctx):
     
 
 
-bot.run("NzUyMTgzNzYxNzkzMTg3OTUy.X1T7tw.6VocrMsw_KFSrWB3VRQh74kgajQ")
+bot.run("")
 
 
